@@ -1,6 +1,6 @@
 # Mongodb-Installation-in-Linux
 
-Here are the steps to install MongoDB on a Linux server, along with an explanation of each command:
+Here are the steps to install MongoDB on a Linux server:
 
 ---
 
