@@ -107,6 +107,18 @@ This command checks and displays the installed version of the `mongo` shell, con
 ```bash
 mongo
 ```
+
+1. config file
+sudo nano /etc/mongod.conf
+
+2. bindIp: 127.0.0.1,10.10.45.84
+
+3. sudo ufw allow 27017
+
+
+
+
+
 **Explanation**:  
 This opens the MongoDB shell where you can interact with your database. If successful, the shell confirms that MongoDB is running correctly.
 
